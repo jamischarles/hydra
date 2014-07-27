@@ -11,7 +11,7 @@ How can I gain a working knowledge of floats?
 @TODO: This should cover the following:
 - troubleshoot/repair a collapsed float
 - Able to explain: What is a collapsed float? How do you fix it?
--
+
 
 
 ## Feedback
