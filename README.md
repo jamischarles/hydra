@@ -1,6 +1,6 @@
 hydra
 ======================
-- Quick links here to the sections below
+- [Intro](#intro)
 
 
 Intro
