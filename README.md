@@ -16,7 +16,6 @@ learning curve and frequently has little or no documentation / best practices?
 This framework attempts to be a vehicle that moves us towards that goal in a scalable way.
 
 
-
 @TODO: look at the TED talk from Justin Kaufman(?) about most learning occurring in the first few hours)
 
 Contributing
@@ -33,7 +32,7 @@ Suggested Job classes
 ----------------
 **Note**: These will be a very strong "suggested", because this will likely vary with each company. This section may be removed entirely.
 
-###Front-end engineer
+**Front-end engineer**  
 An entry level front-end engineer should have these skills at a basic level.
 - HTML
 - CSS
@@ -47,7 +46,7 @@ An entry level front-end engineer should have these skills at a basic level.
 - Debugging
 
 
-###Architect
+**Architect**  
 What skills does it take to be a good architect? Does this depend on the company?
 Any universal skills that can be broken down into micro-badges?
 
@@ -67,7 +66,7 @@ We try not to be too prescriptive. The idea is that there are lots of little bad
 This is intended to adopted by dev teams and changed to suit their needs. The framework should keep the reusable abstracted.
 The parts that can't be reused should be maintained by the dev team.
 
-
+This is really about deliberate practice (@TODO: link Malcolm Gladwell). Most devs don't deliberately practice their skills.
 
 Inspiration / Source / Origin
 ----------------
