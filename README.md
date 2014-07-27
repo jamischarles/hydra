@@ -1,7 +1,7 @@
 hydra
 ======================
 - [Intro](#intro)
-
+- [Contributing](#contributing)
 
 Intro
 ----------------
@@ -33,7 +33,7 @@ Suggested Job classes
 ----------------
 **Note**: These will be a very strong "suggested", because this will likely vary with each company. This section may be removed entirely.
 
-**Front-end engineer **
+###Front-end engineer
 An entry level front-end engineer should have these skills at a basic level.
 - HTML
 - CSS
@@ -47,14 +47,14 @@ An entry level front-end engineer should have these skills at a basic level.
 - Debugging
 
 
-**Architect**
+###Architect
 What skills does it take to be a good architect? Does this depend on the company?
 Any universal skills that can be broken down into micro-badges?
 
 
 **Terminology**
 ----------------
-- **Job Class **(or track). A job (like Front-end Engineer) is made up of skills.
+- **Job Class** (or track). A job (like Front-end Engineer) is made up of skills.
 - **Skill**. A skill (like HTML) is made up of badges.
 - **Badge**. A badge is a skill broken down into digestible bite sized pieces for easy consumption.
 
