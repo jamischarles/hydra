@@ -20,7 +20,7 @@ This framework attempts to be a vehicle that moves us towards that goal in a sca
 
 Contributing
 ----------------
-
+The smallest piece to contribute is a badge. Save a new badge in the `new_badges_uncategorized` folder. They will be assigned to a skill during the review process.
 
 Use cases
 ----------------
