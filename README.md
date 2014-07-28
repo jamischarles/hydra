@@ -3,6 +3,10 @@ hydra
 - [Intro](#intro)
 - [Contributing](#contributing)
 
+Status
+---------------
+This is in early alpha, and is a VERY rough draft. Everything is subject to change.
+
 Intro
 ----------------
 
@@ -34,8 +38,8 @@ Suggested Job classes
 
 **Front-end engineer**  
 An entry level front-end engineer should have these skills at a basic level.
-- HTML
-- CSS
+- [HTML](skills/html.md)
+- [CSS](skills/css.md)
 - JS
 - GIT
 - Templating (server or client)
