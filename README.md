@@ -37,7 +37,7 @@ An entry level front-end engineer should have these skills at a basic level.
 - HTML
 - CSS
 - JS
-- GIT (some Version control)
+- GIT
 - Templating (server or client)
 - Client-side MVC
 - Soft skills? (time managmetn, conflict resolution?)
