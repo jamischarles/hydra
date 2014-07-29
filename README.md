@@ -76,4 +76,4 @@ This is really about deliberate practice (@TODO: link Malcolm Gladwell). Most de
 Inspiration / Source / Origin
 ----------------
 This draws heavily on the thoughts and philosphies of the [skill-building-program](https://github.com/fs-webdev/skill-building-program) that Rob Whiting at
-FamilySearch developed. The Front-end teams there have been using it successfully for quite some time now.
+FamilySearch developed. 

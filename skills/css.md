@@ -5,8 +5,7 @@ To gain proficiency at CSS, earn the following badges
 
 
 ### Level 1 - Beginner
-http://htmldog.com/guides/css/beginner/
-- CSS Basics (simple enough to be 1 badge)
+- [CSS Basics](../new_badges_uncategorized/css_basics.md) (simple enough to be 1 badge)
 
 ### Level 2 - Intermediate
 - [Floats](../new_badges_uncategorized/css_floats.md)
