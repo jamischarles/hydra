@@ -10,14 +10,15 @@ This is in early alpha, and is a VERY rough draft. Everything is subject to chan
 Intro
 ----------------
 
-Hydra is a skill-building program. It tries to answer this question:
+This is a guide to help you level up in your technical career. It tries to answer this question:
 
 - As a new developer how do I come up to speed and gain skill parity with my team?
 - As a mature developer, how do I dive into new areas, and then spread those skills among the team?
 How do I level up? How can I dive start into something like TDD or Benchmarking that often has a high
 learning curve and frequently has little or no documentation / best practices?
 
-This framework attempts to be a vehicle that moves us towards that goal in a scalable way.
+This framework is a vehicle that moves us towards that goal in a scalable way. Have drive but lack direction? This is the steering
+wheel for your car.
 
 
 @TODO: look at the TED talk from Justin Kaufman(?) about most learning occurring in the first few hours)
