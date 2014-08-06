@@ -9,6 +9,8 @@ This is in early alpha, and is a VERY rough draft. Everything is subject to chan
 
 Intro
 ----------------
+There is so much duplication in free web training and education. This is a guide to help you navigate that landscape.
+
 
 This is a guide to help you level up in your technical career. It tries to answer this question:
 
