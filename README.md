@@ -6,6 +6,8 @@ hydra
 
 Hydra is a free guide to help web developers level up. We link to free and (some) paid resources.
 
+[GET STARTED](jobs_skills.md)
+
 How is this different from sites that teach you coding skills ([Treehouse](http://teamtreehouse.com/), [Code School](https://www.codeschool.com/), etc)?
 ---
 These sites are great. We love them. However, none have a complete set of skills yet, as most are targeted at beginners.
