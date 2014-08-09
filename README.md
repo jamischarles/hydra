@@ -1,40 +1,55 @@
 hydra
 ======================
-- [Intro](#intro)
-- [Contributing](#contributing)
-
-Status
----------------
-This is in early alpha, and is a VERY rough draft. Everything is subject to change.
-
-Intro
-----------------
-There is so much duplication in free web training and education. This is a guide to help you navigate that landscape.
+<!-- - [Intro](#intro)
+- [Contributing](#contributing) -->
 
 
-This is a guide to help you level up in your technical career. It tries to answer this question:
+Hydra is a free guide to help web developers level up. We link to free and (some) paid resources.
 
-- As a new developer how do I come up to speed and gain skill parity with my team?
-- As a mature developer, how do I dive into new areas, and then spread those skills among the team?
-How do I level up? How can I dive start into something like TDD or Benchmarking that often has a high
-learning curve and frequently has little or no documentation / best practices?
+How is this different from sites that teach you coding skills ([Treehouse](http://teamtreehouse.com/), [Code School](https://www.codeschool.com/), etc)?
+---
+These sites are great. We love them. However, none have a complete set of skills yet, as most are targeted at beginners.
 
-This framework is a vehicle that moves us towards that goal in a scalable way. Have drive but lack direction? This is the steering
-wheel for your car.
+We help you level up regardless of current level. Beginner? Intermediate? Advanced JS Dev already? How do you level up? This guide helps.
+Most of the content here will be from existing articles & tutorials.
 
 
-@TODO: look at the TED talk from Justin Kaufman(?) about most learning occurring in the first few hours)
+So how does it work?
+---
+**As a team**:
+Managers: Give your team 10% of their time to level up. Want them to start using TDD? Ask them to complete the TDD badge. This will
+bridge the skill gap to help them actually start writing code the TDD way. If a badge doesn't exist, submit a PR. Buy them lunch
+if they complete a badge (or some other reward).
+
+**As an individual**:
+Go through the exercises. Read the articles. Find somebody smarter than you who can sign you off. If you can't, use the honor system.
+In the end, it's all about improving your skills and marketability.
+
+Earning badges:
+---
+Somebody who has earned the badge already generally signs off somebody trying to earn that badge.
+
+You assign badges based on the knowledge or competency they have. If they have prior work that shows competency, they can show that
+to receive their badge.
+
+Earn a badge in CSS Floats? You should now be competent in using them. Team-members, friends and family now know who to turn to.
+
+More questions?
+---
+Read the initial blog post or open an Issue.
 
 Contributing
 ----------------
-The smallest piece to contribute is a badge. Save a new badge in the `new_badges_uncategorized` folder. They will be assigned to a skill during the review process.
+Read the contribution guidelines.
 
-Use cases
-----------------
-A skill development program for a team. Assuming a team of front-end engineers the first question you should ask is:
-- What skills does it take to be a competent front-end engineer at this company?
-- What distinguishes entry level from competent, competent from high performers?
+<!--  
+TODO
+- Write all skills and badges on one page. Easily scanned.
 
+-->
+
+
+<!--
 Suggested Job classes
 ----------------
 **Note**: These will be a very strong "suggested", because this will likely vary with each company. This section may be removed entirely.
@@ -50,32 +65,9 @@ An entry level front-end engineer should have these skills at a basic level.
 - Soft skills? (time managmetn, conflict resolution?)
 
 - Troubleshooting?
-- Debugging
+- Debugging -->
 
 
-**Architect**  
-What skills does it take to be a good architect? Does this depend on the company?
-Any universal skills that can be broken down into micro-badges?
-
-
-**Terminology**
+Inspiration
 ----------------
-- **Job Class** (or track). A job (like Front-end Engineer) is made up of skills.
-- **Skill**. A skill (like HTML) is made up of badges.
-- **Badge**. A badge is a skill broken down into digestible bite sized pieces for easy consumption.
-
-So... A Job is made up of skills, which are made up of badges.
-
-Philosophy
-----------------
-We try not to be too prescriptive. The idea is that there are lots of little badges.
-
-This is intended to adopted by dev teams and changed to suit their needs. The framework should keep the reusable abstracted.
-The parts that can't be reused should be maintained by the dev team.
-
-This is really about deliberate practice (@TODO: link Malcolm Gladwell). Most devs don't deliberately practice their skills.
-
-Inspiration / Source / Origin
-----------------
-This draws heavily on the thoughts and philosphies of the [skill-building-program](https://github.com/fs-webdev/skill-building-program) that Rob Whiting at
-FamilySearch developed. 
+Idea comes from the hard work in the [skill-building-program](https://github.com/fs-webdev/skill-building-program) at FamilySearch.
