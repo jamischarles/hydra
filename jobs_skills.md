@@ -12,7 +12,10 @@ Jobs & skills
 
 
 To Assign:  
-Backbone:Basics, JS:Regex, JS:Browser events, JS:jQuery, TDD, JS:Benchmarking
+Backbone:Basics, JS:Regex, JS:Browser events, JS:jQuery, TDD, JS:Benchmarking, Terminal, Git, Github, CSS:Frameworks, JS:Templating, MVC:Intro, CSS:Styleguides
+
+HTML:Basics, HTML:Tables, HTML: Lists, HTML: Forms, CSS:Typography, CSS:Images, CSS:Box-model, [CSS:floats](new_badges_uncategorized/css_floats.md), CSS:positioning,
+HTML/CSS:Coding practices  
 
 ### Entry level
 <!-- (consider floating layout) -->
@@ -33,8 +36,7 @@ These badges (each badge should take 4-10 hours to complete):
 
 
 
-HTML:Basics, HTML:Tables, HTML: Lists, HTML: Forms, CSS:Typography, CSS:Images, CSS:Box-model, [CSS:floats](new_badges_uncategorized/css_floats.md), CSS:positioning,
-HTML/CSS:Coding practices  
+
 
 
 Bonus:  
