@@ -11,7 +11,7 @@ Jobs & skills
 ## Front-end web developer
 
 
-To Assign:  
+To Assign (each should take about 4 hours):  
 Backbone:Basics, JS:Regex, JS:Browser events, JS:jQuery, TDD, JS:Benchmarking, Terminal, Git, Github, CSS:Frameworks, JS:Templating, MVC:Intro, CSS:Styleguides
 
 HTML:Basics, HTML:Tables, HTML: Lists, HTML: Forms, CSS:Typography, CSS:Images, CSS:Box-model, [CSS:floats](new_badges_uncategorized/css_floats.md), CSS:positioning,
