@@ -11,6 +11,8 @@ Jobs & skills
 ## Front-end web developer
 
 
+To Assign:  
+Backbone:Basics, JS:Regex, JS:Browser events, JS:jQuery, TDD, JS:Benchmarking
 
 ### Entry level
 <!-- (consider floating layout) -->
