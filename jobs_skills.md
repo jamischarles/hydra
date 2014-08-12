@@ -17,6 +17,10 @@ Backbone:Basics, JS:Regex, JS:Browser events, JS:jQuery, TDD, JS:Benchmarking, T
 HTML:Basics, HTML:Tables, HTML: Lists, HTML: Forms, CSS:Typography, CSS:Images, CSS:Box-model, [CSS:floats](new_badges_uncategorized/css_floats.md), CSS:positioning,
 HTML/CSS:Coding practices  
 
+CSS:Preprocessor, Taskrunners, Linting (Code Quality), Chrome Devtools, Dep Management (Browserify/Require.js),
+
+Deploy (FTP, Nodejitsu, Heroku)
+
 ### Entry level
 <!-- (consider floating layout) -->
 <!--
